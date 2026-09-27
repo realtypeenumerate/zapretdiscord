@@ -1,0 +1,10 @@
+# zapretdiscord
+
+Сборка zapretdiscord заточена под Discord: connecting, голосовой чат, демонстрация экрана. VPN не нужен, IP не меняется, скорость канала остаётся вашей.
+
+Сборка zapretdiscord заточена под Discord: connecting, голосовой чат, демонстрация экрана. VPN не нужен, IP не меняется, скорость канала остаётся вашей. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/realtypeenumerate/zapretdiscord/releases/latest
+Код: https://github.com/realtypeenumerate/zapretdiscord
+Основа: https://github.com/bol-van/zapret
+Страница: https://github.com/realtypeenumerate/zapretdiscord
